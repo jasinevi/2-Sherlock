@@ -1,0 +1,42 @@
+body{
+    position: relative;
+    background-color: lightgray;
+}
+
+.dezute{
+    position: absolute;
+    margin: 20px;
+    left: 32%;
+    top: 120px;
+    text-align: center;
+}
+#logo{
+    position: absolute;
+    left: 10%;
+    top: 10%;
+}
+#skaicius{
+    font-size: 70px;
+    margin: 20px;
+    font-family: Impact, Charcoal, sans-serif;
+    font-weight: bold;
+    color: black;
+    
+}
+#par{
+    font-family: 'Trebuchet MS';  
+    color: darkslategrey;  
+}
+#par1{
+    font-size: 11px;
+    color: darkslategrey;
+}
+#buttonas{
+    border: 3px solid gray;
+    text-decoration: none;
+    color: white;
+    font-size: 13px;
+    margin: 10px;
+    padding: 5px;
+    background-color: gray;
+}
